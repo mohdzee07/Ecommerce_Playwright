@@ -11,7 +11,7 @@
 
     // });
 
-    test('PagePW test',async ({page})=>
+    test('123PagePW test',async ({page})=>
     {
 
         await page.goto("https://rahulshettyacademy.com/loginpagePractise/");
